@@ -1,0 +1,31 @@
+.produtos-moda {
+    margin-bottom: 30px;
+    font-size: 24px;
+    color: #fff;
+}
+
+
+.cabecalho-tabela-moda th {
+    background-color: #BB86FC;
+    padding: 10px;
+}
+
+.informacoes-tabela-moda td {
+    background-color: #424250;
+    padding: 10px;
+}
+
+.produtos-casa {
+    font-size: 24px;
+    color: #fff;
+}
+
+.cabecalho-tabela-casa th{
+    background-color: #00c4b4;
+    padding: 10px;
+}
+
+.informacoes-tabela-casa td {
+    background-color: #424250;
+    padding: 10px;
+}
